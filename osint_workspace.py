@@ -22,6 +22,7 @@ Input data:
 
 Safety Disclaimer:
   Use only on assets you own or are authorized to investigate.
+  Credit: By Musayyab Shah.
   This is a defensive analyst organizer/launcher. It does not scrape websites,
   bypass protections, automate logins, or perform offensive operations.
 
@@ -52,7 +53,7 @@ from typing import Any, Callable
 from urllib.parse import quote_plus, urlparse
 
 APP_TITLE = "OSINT Workspace"
-APP_SUBTITLE = "Tool By Faiza And Musayyab"
+APP_SUBTITLE = "Tool By Musayyab Shah"
 UI_DISCLAIMER = "Use only on assets you own or are authorized to investigate."
 
 DEFAULT_FILES = {
