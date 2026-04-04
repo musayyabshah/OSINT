@@ -1,6 +1,5 @@
 # OSINT Workspace
 
-**Subtitle/Credit:** Tool By Musayyab Shah  
 **Author Credit:** By Musayyab Shah
 
 OSINT Workspace is a **defensive, local-first analyst assistant** built as a single-file Python desktop app (`osint_workspace.py`).
